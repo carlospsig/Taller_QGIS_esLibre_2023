@@ -1,7 +1,8 @@
 
-# esLibre
+# Congreso esLibre
+[esLibre](https://eslib.re/2023/)
 
-## Zaragoza, a13 de mayo de 2023
+## Zaragoza, 12 y 13 de mayo de 2023 en Etopia
 
 ## Primero me presento. hola soy Carlos López Quintaniilla
 https://www.linkedin.com/in/clquintanilla/
